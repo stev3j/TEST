@@ -21,4 +21,5 @@ class MainActivity : AppCompatActivity() {
         val navController = findNavController(R.id.fragment)
         return navController.navigateUp() || super.onSupportNavigateUp()
     }
+    //asdf
 }
